@@ -53,8 +53,6 @@
     "test:swift": "cd ios && swift test",
     "test:native": "npm run test:kotlin && npm run test:swift",
     "test:all": "npm run test:js && npm run test:native",
-    "prepare": "expo-module prepare && rm .eslintrc.js && expo-module build",
-    "postprepare": "echo '{\"type\": \"module\"}' > build/package.json",
     "prepublishOnly": "expo-module prepublishOnly",
     "expo-module": "expo-module",
     "open:ios": "xed example/ios",
