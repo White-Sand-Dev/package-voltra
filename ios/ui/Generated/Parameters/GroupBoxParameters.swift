@@ -9,4 +9,6 @@ import Foundation
 
 /// Parameters for GroupBox component
 /// Grouped content container
-public struct GroupBoxParameters: ComponentParameters {}
+public struct GroupBoxParameters: ComponentParameters {
+
+}

@@ -17,10 +17,13 @@ import kotlinx.serialization.Serializable
 data class AndroidTextParameters(
     /** Text content */
     val text: String,
+
     /** Text color */
     val color: String? = null,
+
     /** Font size */
     val fontSize: Double? = null,
+
     /** Maximum lines */
-    val maxLines: Double? = null,
+    val maxLines: Double? = null
 )

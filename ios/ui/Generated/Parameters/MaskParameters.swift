@@ -9,4 +9,6 @@ import Foundation
 
 /// Parameters for Mask component
 /// Mask content using any Voltra element as the mask shape
-public struct MaskParameters: ComponentParameters {}
+public struct MaskParameters: ComponentParameters {
+
+}
