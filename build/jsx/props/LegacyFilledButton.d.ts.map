@@ -1,0 +1,1 @@
+{"version":3,"file":"LegacyFilledButton.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/LegacyFilledButton.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,uBAAuB,GAAG,eAAe,GAAG;IACtD,oCAAoC;IACpC,IAAI,EAAE,MAAM,CAAA;IACZ,oCAAoC;IACpC,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB,CAAA"}

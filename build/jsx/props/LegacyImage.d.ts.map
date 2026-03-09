@@ -1,0 +1,1 @@
+{"version":3,"file":"LegacyImage.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/LegacyImage.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,gBAAgB,GAAG,eAAe,GAAG;IAC/C,8FAA8F;IAC9F,MAAM,EAAE,MAAM,CAAC,MAAM,EAAE,GAAG,CAAC,CAAA;IAC3B,2DAA2D;IAC3D,UAAU,CAAC,EAAE,OAAO,GAAG,SAAS,GAAG,SAAS,GAAG,QAAQ,GAAG,QAAQ,CAAA;CACnE,CAAA"}

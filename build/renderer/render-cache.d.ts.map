@@ -1,0 +1,1 @@
+{"version":3,"file":"render-cache.d.ts","sourceRoot":"","sources":["../../src/renderer/render-cache.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,qBAAqB,EAAE,MAAM,YAAY,CAAA;AAElD,MAAM,MAAM,WAAW,GAAG;IACxB,WAAW,EAAE,qBAAqB,CAAA;CACnC,CAAA;AAED,eAAO,MAAM,cAAc,GAAI,UAAU,qBAAqB,KAAG,WAiBhE,CAAA"}

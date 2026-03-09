@@ -1,0 +1,1 @@
+{"version":3,"file":"useUpdateOnHMR.d.ts","sourceRoot":"","sources":["../../src/utils/useUpdateOnHMR.ts"],"names":[],"mappings":"AAEA,OAAO,CAAC,MAAM,CAAC;IAEb,IAAI,QAAQ,EAAE,CAAC,GAAG,IAAI,EAAE,OAAO,EAAE,KAAK,IAAI,CAAA;CAC3C;AAED;;;GAGG;AACH,eAAO,MAAM,cAAc,YAmB1B,CAAA"}

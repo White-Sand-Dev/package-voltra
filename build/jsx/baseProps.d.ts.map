@@ -1,0 +1,1 @@
+{"version":3,"file":"baseProps.d.ts","sourceRoot":"","sources":["../../src/jsx/baseProps.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,OAAO,CAAA;AAEjC,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,oBAAoB,CAAA;AAEzD,MAAM,MAAM,eAAe,GAAG;IAC5B,EAAE,CAAC,EAAE,MAAM,CAAA;IACX,KAAK,CAAC,EAAE,eAAe,CAAA;IACvB,QAAQ,CAAC,EAAE,SAAS,CAAA;CACrB,CAAA"}

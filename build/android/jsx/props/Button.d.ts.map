@@ -1,0 +1,1 @@
+{"version":3,"file":"Button.d.ts","sourceRoot":"","sources":["../../../../src/android/jsx/props/Button.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAA;AAE7D,MAAM,MAAM,WAAW,GAAG,sBAAsB,GAAG;IACjD,oCAAoC;IACpC,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB,CAAA"}

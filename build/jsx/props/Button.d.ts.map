@@ -1,0 +1,1 @@
+{"version":3,"file":"Button.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/Button.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,WAAW,GAAG,eAAe,GAAG;IAC1C,iCAAiC;IACjC,WAAW,CAAC,EAAE,WAAW,GAAG,UAAU,GAAG,mBAAmB,GAAG,OAAO,GAAG,YAAY,CAAA;CACtF,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"AndroidSwitch.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/AndroidSwitch.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,kBAAkB,GAAG,eAAe,GAAG;IACjD,+CAA+C;IAC/C,EAAE,EAAE,MAAM,CAAA;IACV,4BAA4B;IAC5B,OAAO,CAAC,EAAE,OAAO,CAAA;IACjB,oCAAoC;IACpC,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB,CAAA"}

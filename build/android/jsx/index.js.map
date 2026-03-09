@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/android/jsx/index.ts"],"names":[],"mappings":"AAAA,cAAc,iBAAiB,CAAA","sourcesContent":["export * from './primitives.js'\n"]}

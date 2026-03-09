@@ -1,0 +1,1 @@
+{"version":3,"file":"stylesheet-registry.d.ts","sourceRoot":"","sources":["../../src/renderer/stylesheet-registry.ts"],"names":[],"mappings":"AAmCA,MAAM,MAAM,kBAAkB,GAAG;IAC/B,aAAa,EAAE,CAAC,WAAW,EAAE,MAAM,KAAK,MAAM,CAAA;IAC9C,SAAS,EAAE,MAAM,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,EAAE,CAAA;CAC3C,CAAA;AAED,eAAO,MAAM,wBAAwB,QAAO,kBAgB3C,CAAA"}

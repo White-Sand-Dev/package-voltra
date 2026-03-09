@@ -1,0 +1,1 @@
+{"version":3,"file":"Mask.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/Mask.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,OAAO,CAAA;AAEtC,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,SAAS,GAAG,eAAe,GAAG;IACxC,4EAA4E;IAC5E,WAAW,EAAE,SAAS,CAAA;CACvB,CAAA"}

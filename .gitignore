@@ -23,7 +23,6 @@ local.properties
 android.iml
 android/app/libs
 android/keystores/debug.keystore
-build/
 
 ## Node.js
 node_modules/
@@ -48,5 +47,4 @@ npm-debug.log
 .turbo
 
 ## Build
-/build
 /ios/.build/

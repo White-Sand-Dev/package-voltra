@@ -1,0 +1,1 @@
+{"version":3,"file":"LazyColumn.d.ts","sourceRoot":"","sources":["../../../../src/android/jsx/props/LazyColumn.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAA;AAE7D,MAAM,MAAM,eAAe,GAAG,sBAAsB,GAAG;IACrD,uCAAuC;IACvC,mBAAmB,CAAC,EAAE,OAAO,GAAG,qBAAqB,GAAG,KAAK,CAAA;CAC9D,CAAA"}

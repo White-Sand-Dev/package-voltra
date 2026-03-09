@@ -1,0 +1,1 @@
+{"version":3,"file":"Text.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/Text.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,SAAS,GAAG,eAAe,GAAG;IACxC,yCAAyC;IACzC,aAAa,CAAC,EAAE,MAAM,CAAA;IACtB,wCAAwC;IACxC,sBAAsB,CAAC,EAAE,MAAM,GAAG,QAAQ,GAAG,OAAO,GAAG,MAAM,CAAA;CAC9D,CAAA"}

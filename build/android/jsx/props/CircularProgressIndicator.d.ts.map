@@ -1,0 +1,1 @@
+{"version":3,"file":"CircularProgressIndicator.d.ts","sourceRoot":"","sources":["../../../../src/android/jsx/props/CircularProgressIndicator.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAA;AAE7D,MAAM,MAAM,8BAA8B,GAAG,sBAAsB,GAAG;IACpE;;;;OAIG;IACH,QAAQ,CAAC,EAAE,MAAM,CAAA;IACjB,uCAAuC;IACvC,KAAK,CAAC,EAAE,MAAM,CAAA;CACf,CAAA"}

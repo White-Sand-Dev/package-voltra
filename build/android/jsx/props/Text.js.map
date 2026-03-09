@@ -1,0 +1,1 @@
+{"version":3,"file":"Text.js","sourceRoot":"","sources":["../../../../src/android/jsx/props/Text.ts"],"names":[],"mappings":"","sourcesContent":["import type { VoltraAndroidBaseProps } from '../baseProps.js'\n\nexport type TextProps = VoltraAndroidBaseProps & {\n  /** Maximum number of lines to display */\n  maxLines?: number\n}\n"]}

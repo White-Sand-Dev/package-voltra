@@ -1,0 +1,1 @@
+{"version":3,"file":"Button.js","sourceRoot":"","sources":["../../../../src/android/jsx/props/Button.ts"],"names":[],"mappings":"","sourcesContent":["import type { VoltraAndroidBaseProps } from '../baseProps.js'\n\nexport type ButtonProps = VoltraAndroidBaseProps & {\n  /** Whether the button is enabled */\n  enabled?: boolean\n}\n"]}

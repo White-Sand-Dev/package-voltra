@@ -1,0 +1,1 @@
+{"version":3,"file":"Column.d.ts","sourceRoot":"","sources":["../../../../src/android/jsx/props/Column.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAA;AAE7D,MAAM,MAAM,WAAW,GAAG,sBAAsB,GAAG;IACjD,uCAAuC;IACvC,mBAAmB,CAAC,EAAE,OAAO,GAAG,qBAAqB,GAAG,KAAK,CAAA;IAC7D,qCAAqC;IACrC,iBAAiB,CAAC,EAAE,KAAK,GAAG,mBAAmB,GAAG,QAAQ,CAAA;CAC3D,CAAA"}

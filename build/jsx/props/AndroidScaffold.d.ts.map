@@ -1,0 +1,1 @@
+{"version":3,"file":"AndroidScaffold.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/AndroidScaffold.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,oBAAoB,GAAG,eAAe,GAAG;IACnD,uBAAuB;IACvB,eAAe,CAAC,EAAE,MAAM,CAAA;IACxB,yBAAyB;IACzB,iBAAiB,CAAC,EAAE,MAAM,CAAA;CAC3B,CAAA"}

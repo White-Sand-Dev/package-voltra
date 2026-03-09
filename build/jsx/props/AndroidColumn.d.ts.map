@@ -1,0 +1,1 @@
+{"version":3,"file":"AndroidColumn.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/AndroidColumn.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,kBAAkB,GAAG,eAAe,GAAG;IACjD,uCAAuC;IACvC,mBAAmB,CAAC,EAAE,OAAO,GAAG,qBAAqB,GAAG,KAAK,CAAA;IAC7D,qCAAqC;IACrC,iBAAiB,CAAC,EAAE,KAAK,GAAG,mBAAmB,GAAG,QAAQ,CAAA;CAC3D,CAAA"}

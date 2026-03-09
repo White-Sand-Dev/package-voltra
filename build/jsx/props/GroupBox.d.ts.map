@@ -1,0 +1,1 @@
+{"version":3,"file":"GroupBox.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/GroupBox.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,OAAO,CAAA;AAEtC,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,aAAa,GAAG,eAAe,GAAG;IAC5C,sCAAsC;IACtC,KAAK,CAAC,EAAE,SAAS,CAAA;CAClB,CAAA"}

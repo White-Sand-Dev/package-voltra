@@ -1,0 +1,1 @@
+{"version":3,"file":"Spacer.js","sourceRoot":"","sources":["../../../../src/android/jsx/props/Spacer.ts"],"names":[],"mappings":"","sourcesContent":["import type { VoltraAndroidBaseProps } from '../baseProps.js'\n\nexport type SpacerProps = VoltraAndroidBaseProps & {\n  /** Size of the spacer in dp */\n  size?: number\n}\n"]}

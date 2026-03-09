@@ -1,0 +1,1 @@
+{"version":3,"file":"AndroidLinearProgressIndicator.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/AndroidLinearProgressIndicator.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,mCAAmC,GAAG,eAAe,GAAG;IAClE,qBAAqB;IACrB,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,6BAA6B;IAC7B,eAAe,CAAC,EAAE,MAAM,CAAA;CACzB,CAAA"}

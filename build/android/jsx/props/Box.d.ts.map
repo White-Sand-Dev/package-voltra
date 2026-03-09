@@ -1,0 +1,1 @@
+{"version":3,"file":"Box.d.ts","sourceRoot":"","sources":["../../../../src/android/jsx/props/Box.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAA;AAE7D,MAAM,MAAM,QAAQ,GAAG,sBAAsB,GAAG;IAC9C,uCAAuC;IACvC,gBAAgB,CAAC,EACb,WAAW,GACX,YAAY,GACZ,SAAS,GACT,cAAc,GACd,QAAQ,GACR,YAAY,GACZ,cAAc,GACd,eAAe,GACf,YAAY,CAAA;CACjB,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"LegacyAndroidRadioButton.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/LegacyAndroidRadioButton.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,6BAA6B,GAAG,eAAe,GAAG;IAC5D,gFAAgF;IAChF,EAAE,EAAE,MAAM,CAAA;IACV,4BAA4B;IAC5B,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB,CAAA"}

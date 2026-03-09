@@ -1,0 +1,1 @@
+{"version":3,"file":"Row.d.ts","sourceRoot":"","sources":["../../../../src/android/jsx/props/Row.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,iBAAiB,CAAA;AAE7D,MAAM,MAAM,QAAQ,GAAG,sBAAsB,GAAG;IAC9C,qCAAqC;IACrC,iBAAiB,CAAC,EAAE,KAAK,GAAG,mBAAmB,GAAG,QAAQ,CAAA;IAC1D,uCAAuC;IACvC,mBAAmB,CAAC,EAAE,OAAO,GAAG,qBAAqB,GAAG,KAAK,CAAA;CAC9D,CAAA"}

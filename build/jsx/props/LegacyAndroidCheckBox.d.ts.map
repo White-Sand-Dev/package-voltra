@@ -1,0 +1,1 @@
+{"version":3,"file":"LegacyAndroidCheckBox.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/LegacyAndroidCheckBox.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,0BAA0B,GAAG,eAAe,GAAG;IACzD,4EAA4E;IAC5E,EAAE,EAAE,MAAM,CAAA;IACV,4BAA4B;IAC5B,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB,CAAA"}

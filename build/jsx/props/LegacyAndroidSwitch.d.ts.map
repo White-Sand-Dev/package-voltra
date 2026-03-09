@@ -1,0 +1,1 @@
+{"version":3,"file":"LegacyAndroidSwitch.d.ts","sourceRoot":"","sources":["../../../src/jsx/props/LegacyAndroidSwitch.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,cAAc,CAAA;AAEnD,MAAM,MAAM,wBAAwB,GAAG,eAAe,GAAG;IACvD,0EAA0E;IAC1E,EAAE,EAAE,MAAM,CAAA;IACV,4BAA4B;IAC5B,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB,CAAA"}
