@@ -17,6 +17,7 @@ import kotlinx.serialization.Serializable
 data class AndroidImageParameters(
     /** Image source */
     val source: String,
+
     /** Resizing mode */
-    val resizeMode: String? = null,
+    val resizeMode: String? = null
 )

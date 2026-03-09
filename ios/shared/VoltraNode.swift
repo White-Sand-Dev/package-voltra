@@ -182,6 +182,9 @@ struct VoltraElementView: View {
     case "Mask":
       VoltraMask(element)
 
+    case "NativeTimerBar":
+      VoltraNativeTimerBar(element)
+
     default:
       EmptyView()
     }

@@ -9,4 +9,6 @@ import Foundation
 
 /// Parameters for View component
 /// Flex container with configurable direction. Always uses flexbox layout.
-public struct ViewParameters: ComponentParameters {}
+public struct ViewParameters: ComponentParameters {
+
+}

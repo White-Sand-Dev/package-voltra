@@ -1233,6 +1233,43 @@
       }
     },
     {
+      "name": "NativeTimerBar",
+      "description": "Minimal native timer progress bar with OS-level animation",
+      "swiftAvailability": "iOS 16.0, macOS 13.0",
+      "parameters": {
+        "endAtMs": {
+          "type": "number",
+          "optional": true,
+          "description": "End time in milliseconds since epoch"
+        },
+        "startAtMs": {
+          "type": "number",
+          "optional": true,
+          "description": "Start time in milliseconds since epoch"
+        },
+        "progressColor": {
+          "type": "string",
+          "optional": true,
+          "description": "Color for the progress fill"
+        },
+        "trackColor": {
+          "type": "string",
+          "optional": true,
+          "description": "Color for the track (background)"
+        },
+        "cornerRadius": {
+          "type": "number",
+          "optional": true,
+          "description": "Corner radius for the bar"
+        },
+        "height": {
+          "type": "number",
+          "optional": true,
+          "description": "Explicit height for the bar"
+        }
+      }
+    },
+    {
       "name": "View",
       "description": "Flex container with configurable direction. Always uses flexbox layout.",
       "swiftAvailability": "iOS 16.0, macOS 13.0",

@@ -17,6 +17,7 @@ import kotlinx.serialization.Serializable
 data class AndroidScaffoldParameters(
     /** Background color */
     val backgroundColor: String? = null,
+
     /** Horizontal padding */
-    val horizontalPadding: Double? = null,
+    val horizontalPadding: Double? = null
 )

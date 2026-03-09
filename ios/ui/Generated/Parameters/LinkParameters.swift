@@ -10,6 +10,6 @@ import Foundation
 /// Parameters for Link component
 /// Navigable link that opens a URL when tapped
 public struct LinkParameters: ComponentParameters {
-  /// URL to navigate to when the link is tapped
-  public let destination: String?
+    /// URL to navigate to when the link is tapped
+    public let destination: String?
 }
